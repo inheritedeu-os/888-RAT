@@ -1,5 +1,5 @@
 # 888 RAT [Lifetime Activated]
-An advanced hidden remote access tool with free Avaliable modes: for Android, Windows and Linux. Feel free to contact me by [telegram](https://t.me/inheritedeu) to buy
+An advanced hidden remote access tool with three avaliable modes: for Android, Windows and Linux. Feel free to contact me by [telegram](https://t.me/inheritedeu) to buy
 
 ## Features:
 ### ⭐General:
