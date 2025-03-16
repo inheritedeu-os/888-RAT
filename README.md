@@ -11,10 +11,10 @@ An advanced hidden remote access tool with three avaliable modes: for Android, W
 <br>✅VBS exploit
 <br>✅And much more
 
-![image](https://github.com/user-attachments/assets/81f2f35a-80fc-43be-83bb-df6ca5296e28)
-![image](https://github.com/user-attachments/assets/24fefb07-d5ec-49a7-b763-268f3d3ce83b)
-![image](https://github.com/user-attachments/assets/51bdcfdb-03d4-4b19-8092-5216096cd883)
-![image](https://github.com/user-attachments/assets/cc3560fa-665c-4d52-b5ca-cddbd9393e92)
+![image](https://github.com/user-attachments/assets/80bfea98-0db1-4ad5-8a77-16334f6fef43)
+![image](https://github.com/user-attachments/assets/841cbc00-ddbd-464f-aec3-071fdc8dcd72)
+![image](https://github.com/user-attachments/assets/c9e40d48-0960-474c-b529-09b700357724)
+![image](https://github.com/user-attachments/assets/033bdf72-f7f6-470d-a9cf-ef7adefc8b63)
 
 ### ⭐Windows Features:
 <br>✅File system
@@ -26,7 +26,7 @@ An advanced hidden remote access tool with three avaliable modes: for Android, W
 <br>✅Kill/Uninstall
 <br>✅Etc
 
-![image](https://github.com/user-attachments/assets/66f6d8b4-4859-4f75-b050-c8b6db6b2970)
+![image](https://github.com/user-attachments/assets/3751a1b4-8b37-4aed-9569-ebe5af4cac30)
 
 ### ⭐Android Features:
 <br>✅Spy: Camera, Listener, GPS tracker, screenshot
@@ -39,9 +39,10 @@ An advanced hidden remote access tool with three avaliable modes: for Android, W
 <br>✅Uninstall
 <br>✅Etc
 
-![image](https://github.com/user-attachments/assets/f854a9f8-0989-44f5-8ae7-2f516b460b6b)
+![image](https://github.com/user-attachments/assets/b5334dbc-243a-4986-ba63-5aa775f7ac0f)
 
 ### ⭐Linux Features:
 <br>✅remote Terminal usage
 
-![image](https://github.com/user-attachments/assets/3f5aebde-6183-41b1-afc4-b94a762831b3)
+![image](https://github.com/user-attachments/assets/a7c2fe56-af89-4944-8400-80e91d33203c)
+
